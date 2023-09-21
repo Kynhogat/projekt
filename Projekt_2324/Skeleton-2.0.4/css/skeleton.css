@@ -10,6 +10,8 @@
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
+- Variables
+----------------
 - Grid
 - Base Styles
 - Typography
@@ -25,6 +27,15 @@
 - Media Queries
 */
 
+
+/* Variables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+:root {
+  --primary-color: #0652dd;
+  --secondary-color: #ea2027;
+  --transition: 0.4s ease-in;
+}
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
